@@ -2,6 +2,8 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-gsap-scrolltrigger/
 
+#### `Youtube:` [React + GSAP | ScrollTrigger](https://youtu.be/fscS8CfRdgk)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-gsap-scrolltrigger.git`
