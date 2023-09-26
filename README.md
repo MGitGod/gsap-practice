@@ -4,6 +4,8 @@
 
 #### `Youtube:` [React + GSAP | ScrollTrigger](https://youtu.be/fscS8CfRdgk)
 
+#### `VK Video:` [React + GSAP | ScrollTrigger](https://vk.com/video/@tipichnyjvebrazrabotchik?z=video-222570561_456239039%2Fclub222570561%2Fpl_-222570561_-2)
+
 ---
 
 #### `git clone https://github.com/DmitriyShkredov/react-gsap-scrolltrigger.git`
