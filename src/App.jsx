@@ -48,7 +48,7 @@ function App() {
         <img src={dog2} alt="" className="dog-2" />
         <img src={dog3} alt="" className="dog-3" />
       </section>
-      <section className="section section--green"></section>
+      <section className="section section--cream"></section>
     </>
   );
 }
